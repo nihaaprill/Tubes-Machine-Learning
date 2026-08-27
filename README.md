@@ -159,6 +159,7 @@ Tubes-Machine-Learning/
 ## Anggota
 
 **Julia Rahmawati**
+**&**
 **Niha April Miani**
 
 Program Studi Ilmu Komputer
